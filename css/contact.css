@@ -1,0 +1,62 @@
+ul.RS{
+    text-align: right;
+    margin-right: 10px;
+    }
+
+ul{
+    line-height: 30px;
+    }
+    ul li a{
+        list-style: none;
+        color: black;
+        text-decoration: none;
+}
+
+h1{
+font-weight: bolder;
+font-family: work sans;
+font-size: xx-large;
+}
+
+h4{
+    color:rgb(48, 197, 185)
+}
+
+ul.menu li{
+display: inline;
+padding: 0 10px;
+border-left: 1px solid black;
+}
+
+ul.menu{
+    margin:0;
+    margin-top:0;
+    padding: 0px 10px;
+    background-color: rgb(255, 255, 255);
+    text-align: right;
+    font-weight: bold;
+}
+
+.fa-twitter:hover{
+    color: lightskyblue;
+}
+
+.fa-facebook-square:hover{
+    color: blue;
+}
+
+.fa-spotify:hover{
+    color: lightgreen;
+}
+
+.fa-apple:hover{
+    color: black;
+}
+
+.fa-amazon:hover{
+    color: orange;
+}
+
+.fa-instagram:hover{
+    color: fuchsia;
+}
